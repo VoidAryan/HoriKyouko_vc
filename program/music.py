@@ -180,7 +180,7 @@ async def play(c: Client, m: Message):
                             await suhu.delete()
                             requester = f"[{m.from_user.first_name}](tg://user?id={m.from_user.id})"
                             await m.reply_photo(
-                                photo=thumbnail,
+                                photo=https://telegra.ph/file/7e16f3b3c40359f301ef8.jpg,
                                 caption=f"💡 **Track added to queue »** `{pos}`\n\n🏷 **Name:** [{songname}]({url}) | `music`\n**⏱ Duration:** `{duration}`\n🎧 **Request by:** {requester}",
                                 reply_markup=keyboard,
                             )
@@ -198,7 +198,7 @@ async def play(c: Client, m: Message):
                                 await suhu.delete()
                                 requester = f"[{m.from_user.first_name}](tg://user?id={m.from_user.id})"
                                 await m.reply_photo(
-                                    photo=thumbnail,
+                                    photo=https://telegra.ph/file/7e16f3b3c40359f301ef8.jpg,
                                     caption=f"🏷 **Name:** [{songname}]({url})\n**⏱ Duration:** `{duration}`\n💡 **Status:** `Playing`\n🎧 **Request by:** {requester}\n📹 **Stream type:** `Music`",
                                     reply_markup=keyboard,
                                 )
