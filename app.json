@@ -1,15 +1,15 @@
 {
-    "name": "Video x Music Stream Bot",
+    "name": "VOID X MUSIC",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "logo": "https://telegra.ph/file/4302e4bd0ccd8295418ad.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
+    "website": "https://t.me/VoidxNetwork",
+    "repository": "https://github.com/HoriKyouko_VC",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
