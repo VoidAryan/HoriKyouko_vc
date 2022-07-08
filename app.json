@@ -8,8 +8,8 @@
         "video stream",
         "pyrogram"
     ],
-    "website": "https://t.me/VoidxNetwork",
-    "repository": "https://github.com/HoriKyouko_VC",
+    "website": "https://t.me/levinachannel",
+    "repository": "https://github.com/levina-lab/video-stream",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
