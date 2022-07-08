@@ -1,7 +1,7 @@
 {
-    "name": "VOID X MUSIC",
+    "name": "Video x Music Stream Bot",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/4302e4bd0ccd8295418ad.jpg",
+    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
     "keywords": [
         "pytgcalls",
         "telegram bot",
